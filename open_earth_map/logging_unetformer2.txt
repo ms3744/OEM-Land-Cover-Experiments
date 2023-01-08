@@ -1,0 +1,7463 @@
+Total samples      : 1068
+Training samples   : 663
+Validation samples : 92
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+
+Epoch: 15
+model saved
+
+Epoch: 16
+
+Epoch: 17
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+
+Epoch: 25
+
+Epoch: 26
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+
+Epoch: 30
+Elapsed time: 8.341 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+
+Epoch: 19
+model saved
+
+Epoch: 20
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+
+Epoch: 25
+model saved
+
+Epoch: 26
+
+Epoch: 27
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+Elapsed time: 8.561 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+
+Epoch: 13
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+
+Epoch: 20
+
+Epoch: 21
+
+Epoch: 22
+model saved
+
+Epoch: 23
+
+Epoch: 24
+
+Epoch: 25
+model saved
+
+Epoch: 26
+
+Epoch: 27
+
+Epoch: 28
+
+Epoch: 29
+
+Epoch: 30
+Elapsed time: 8.643 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+
+Epoch: 14
+model saved
+
+Epoch: 15
+
+Epoch: 16
+
+Epoch: 17
+
+Epoch: 18
+model saved
+
+Epoch: 19
+
+Epoch: 20
+model saved
+
+Epoch: 21
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+
+Epoch: 25
+
+Epoch: 26
+
+Epoch: 27
+
+Epoch: 28
+
+Epoch: 29
+model saved
+
+Epoch: 30
+Elapsed time: 8.517 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+
+Epoch: 23
+model saved
+
+Epoch: 24
+
+Epoch: 25
+model saved
+
+Epoch: 26
+
+Epoch: 27
+model saved
+
+Epoch: 28
+
+Epoch: 29
+
+Epoch: 30
+Elapsed time: 8.481 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+
+Epoch: 15
+model saved
+
+Epoch: 16
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+
+Epoch: 24
+
+Epoch: 25
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+
+Epoch: 29
+
+Epoch: 30
+Elapsed time: 13.461 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+
+Epoch: 10
+model saved
+
+Epoch: 11
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+
+Epoch: 23
+
+Epoch: 24
+
+Epoch: 25
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+
+Epoch: 29
+
+Epoch: 30
+model saved
+Elapsed time: 10.568 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 7.638 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+
+Epoch: 17
+
+Epoch: 18
+model saved
+
+Epoch: 19
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+
+Epoch: 25
+model saved
+
+Epoch: 26
+
+Epoch: 27
+model saved
+
+Epoch: 28
+
+Epoch: 29
+
+Epoch: 30
+Elapsed time: 8.728 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 8.895 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 8.850 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 8.186 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 12.625 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 9.778 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+
+Epoch: 15
+
+Epoch: 16
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+
+Epoch: 20
+model saved
+
+Epoch: 21
+
+Epoch: 22
+
+Epoch: 23
+
+Epoch: 24
+model saved
+
+Epoch: 25
+
+Epoch: 26
+
+Epoch: 27
+model saved
+
+Epoch: 28
+
+Epoch: 29
+
+Epoch: 30
+Elapsed time: 14.110 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+
+Epoch: 16
+
+Epoch: 17
+model saved
+
+Epoch: 18
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+
+Epoch: 22
+model saved
+
+Epoch: 23
+
+Epoch: 24
+
+Epoch: 25
+
+Epoch: 26
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+
+Epoch: 30
+Elapsed time: 14.291 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+
+Epoch: 8
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+
+Epoch: 14
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+
+Epoch: 18
+model saved
+
+Epoch: 19
+
+Epoch: 20
+model saved
+
+Epoch: 21
+
+Epoch: 22
+model saved
+
+Epoch: 23
+
+Epoch: 24
+model saved
+
+Epoch: 25
+
+Epoch: 26
+
+Epoch: 27
+
+Epoch: 28
+model saved
+
+Epoch: 29
+
+Epoch: 30
+model saved
+Elapsed time: 14.056 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+
+Epoch: 9
+model saved
+
+Epoch: 10
+
+Epoch: 11
+
+Epoch: 12
+model saved
+
+Epoch: 13
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+
+Epoch: 18
+
+Epoch: 19
+model saved
+
+Epoch: 20
+
+Epoch: 21
+
+Epoch: 22
+model saved
+
+Epoch: 23
+
+Epoch: 24
+
+Epoch: 25
+model saved
+
+Epoch: 26
+
+Epoch: 27
+
+Epoch: 28
+
+Epoch: 29
+
+Epoch: 30
+Elapsed time: 12.272 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+
+Epoch: 12
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+
+Epoch: 17
+
+Epoch: 18
+model saved
+
+Epoch: 19
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+
+Epoch: 24
+model saved
+
+Epoch: 25
+
+Epoch: 26
+model saved
+
+Epoch: 27
+
+Epoch: 28
+
+Epoch: 29
+
+Epoch: 30
+Elapsed time: 12.214 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+
+Epoch: 17
+model saved
+
+Epoch: 18
+
+Epoch: 19
+model saved
+
+Epoch: 20
+
+Epoch: 21
+
+Epoch: 22
+
+Epoch: 23
+model saved
+
+Epoch: 24
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+
+Epoch: 28
+model saved
+
+Epoch: 29
+
+Epoch: 30
+model saved
+Elapsed time: 19.995 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+
+Epoch: 10
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+
+Epoch: 25
+model saved
+
+Epoch: 26
+
+Epoch: 27
+
+Epoch: 28
+
+Epoch: 29
+
+Epoch: 30
+model saved
+Elapsed time: 15.768 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 10.940 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 11.132 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 11.178 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 11.170 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 11.016 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 18.917 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 14.754 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+
+Epoch: 18
+model saved
+
+Epoch: 19
+
+Epoch: 20
+
+Epoch: 21
+model saved
+
+Epoch: 22
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+
+Epoch: 30
+Elapsed time: 6.246 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+
+Epoch: 21
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+
+Epoch: 30
+model saved
+Elapsed time: 6.489 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+
+Epoch: 18
+model saved
+
+Epoch: 19
+
+Epoch: 20
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+
+Epoch: 24
+
+Epoch: 25
+model saved
+
+Epoch: 26
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+
+Epoch: 30
+Elapsed time: 6.444 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+
+Epoch: 22
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+
+Epoch: 26
+
+Epoch: 27
+
+Epoch: 28
+
+Epoch: 29
+
+Epoch: 30
+Elapsed time: 6.456 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 6.483 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+
+Epoch: 19
+
+Epoch: 20
+model saved
+
+Epoch: 21
+
+Epoch: 22
+model saved
+
+Epoch: 23
+
+Epoch: 24
+model saved
+
+Epoch: 25
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+
+Epoch: 29
+model saved
+
+Epoch: 30
+Elapsed time: 10.563 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+
+Epoch: 29
+
+Epoch: 30
+model saved
+Elapsed time: 8.266 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 5.910 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+
+Epoch: 7
+model saved
+
+Epoch: 8
+
+Epoch: 9
+model saved
+
+Epoch: 10
+
+Epoch: 11
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+
+Epoch: 15
+model saved
+
+Epoch: 16
+
+Epoch: 17
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+
+Epoch: 21
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 5.971 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 6.035 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+Elapsed time: 5.987 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+
+Epoch: 9
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+
+Epoch: 19
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+
+Epoch: 25
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 5.903 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 9.886 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 8.136 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+
+Epoch: 22
+model saved
+
+Epoch: 23
+
+Epoch: 24
+model saved
+
+Epoch: 25
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+Elapsed time: 9.314 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+
+Epoch: 15
+model saved
+
+Epoch: 16
+
+Epoch: 17
+model saved
+
+Epoch: 18
+
+Epoch: 19
+
+Epoch: 20
+
+Epoch: 21
+
+Epoch: 22
+model saved
+
+Epoch: 23
+
+Epoch: 24
+model saved
+
+Epoch: 25
+
+Epoch: 26
+
+Epoch: 27
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+Elapsed time: 9.179 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+
+Epoch: 16
+model saved
+
+Epoch: 17
+
+Epoch: 18
+model saved
+
+Epoch: 19
+
+Epoch: 20
+
+Epoch: 21
+model saved
+
+Epoch: 22
+
+Epoch: 23
+model saved
+
+Epoch: 24
+
+Epoch: 25
+
+Epoch: 26
+model saved
+
+Epoch: 27
+
+Epoch: 28
+
+Epoch: 29
+
+Epoch: 30
+Elapsed time: 9.091 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+
+Epoch: 8
+model saved
+
+Epoch: 9
+
+Epoch: 10
+model saved
+
+Epoch: 11
+
+Epoch: 12
+model saved
+
+Epoch: 13
+
+Epoch: 14
+
+Epoch: 15
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+
+Epoch: 19
+
+Epoch: 20
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+
+Epoch: 24
+
+Epoch: 25
+
+Epoch: 26
+
+Epoch: 27
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 9.043 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+
+Epoch: 13
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+
+Epoch: 23
+
+Epoch: 24
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+
+Epoch: 28
+
+Epoch: 29
+model saved
+
+Epoch: 30
+Elapsed time: 9.219 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+
+Epoch: 14
+model saved
+
+Epoch: 15
+
+Epoch: 16
+model saved
+
+Epoch: 17
+
+Epoch: 18
+model saved
+
+Epoch: 19
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+
+Epoch: 23
+
+Epoch: 24
+model saved
+
+Epoch: 25
+
+Epoch: 26
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 15.361 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+
+Epoch: 11
+model saved
+
+Epoch: 12
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+
+Epoch: 23
+model saved
+
+Epoch: 24
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+
+Epoch: 29
+
+Epoch: 30
+model saved
+Elapsed time: 12.318 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 8.850 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+
+Epoch: 20
+model saved
+
+Epoch: 21
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 8.857 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 9.338 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 9.287 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 9.885 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 16.358 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 12.881 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 6.904 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+
+Epoch: 24
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 6.942 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+
+Epoch: 24
+model saved
+
+Epoch: 25
+
+Epoch: 26
+model saved
+
+Epoch: 27
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 6.966 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+Elapsed time: 7.050 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 7.004 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+
+Epoch: 23
+model saved
+
+Epoch: 24
+
+Epoch: 25
+model saved
+
+Epoch: 26
+
+Epoch: 27
+model saved
+
+Epoch: 28
+
+Epoch: 29
+model saved
+
+Epoch: 30
+Elapsed time: 10.456 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 8.742 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 8.650 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+
+Epoch: 5
+
+Epoch: 6
+
+Epoch: 7
+
+Epoch: 8
+model saved
+
+Epoch: 9
+
+Epoch: 10
+
+Epoch: 11
+
+Epoch: 12
+
+Epoch: 13
+
+Epoch: 14
+
+Epoch: 15
+
+Epoch: 16
+
+Epoch: 17
+
+Epoch: 18
+model saved
+
+Epoch: 19
+
+Epoch: 20
+model saved
+
+Epoch: 21
+
+Epoch: 22
+
+Epoch: 23
+
+Epoch: 24
+
+Epoch: 25
+
+Epoch: 26
+
+Epoch: 27
+model saved
+
+Epoch: 28
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 6.484 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 6.884 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 6.817 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+
+Epoch: 3
+model saved
+
+Epoch: 4
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 6.581 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 10.165 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 8.267 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+
+Epoch: 15
+model saved
+
+Epoch: 16
+
+Epoch: 17
+model saved
+
+Epoch: 18
+
+Epoch: 19
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+
+Epoch: 25
+
+Epoch: 26
+
+Epoch: 27
+
+Epoch: 28
+model saved
+
+Epoch: 29
+
+Epoch: 30
+model saved
+Elapsed time: 9.375 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+
+Epoch: 16
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+
+Epoch: 25
+
+Epoch: 26
+
+Epoch: 27
+model saved
+
+Epoch: 28
+
+Epoch: 29
+
+Epoch: 30
+model saved
+Elapsed time: 9.506 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+
+Epoch: 21
+model saved
+
+Epoch: 22
+
+Epoch: 23
+
+Epoch: 24
+
+Epoch: 25
+
+Epoch: 26
+
+Epoch: 27
+model saved
+
+Epoch: 28
+
+Epoch: 29
+model saved
+
+Epoch: 30
+Elapsed time: 9.523 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+
+Epoch: 14
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+
+Epoch: 24
+
+Epoch: 25
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+
+Epoch: 29
+
+Epoch: 30
+Elapsed time: 9.463 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+
+Epoch: 11
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+
+Epoch: 17
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+
+Epoch: 24
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+
+Epoch: 29
+
+Epoch: 30
+model saved
+Elapsed time: 9.413 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+
+Epoch: 9
+model saved
+
+Epoch: 10
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+
+Epoch: 23
+
+Epoch: 24
+
+Epoch: 25
+
+Epoch: 26
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+
+Epoch: 30
+Elapsed time: 15.101 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+
+Epoch: 27
+
+Epoch: 28
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 12.297 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 9.303 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+Elapsed time: 9.284 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 9.413 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+
+Epoch: 3
+
+Epoch: 4
+
+Epoch: 5
+
+Epoch: 6
+
+Epoch: 7
+
+Epoch: 8
+
+Epoch: 9
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 9.130 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 9.393 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 15.248 min
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+model saved
+
+Epoch: 2
+model saved
+
+Epoch: 3
+model saved
+
+Epoch: 4
+model saved
+
+Epoch: 5
+model saved
+
+Epoch: 6
+model saved
+
+Epoch: 7
+model saved
+
+Epoch: 8
+model saved
+
+Epoch: 9
+model saved
+
+Epoch: 10
+model saved
+
+Epoch: 11
+model saved
+
+Epoch: 12
+model saved
+
+Epoch: 13
+model saved
+
+Epoch: 14
+model saved
+
+Epoch: 15
+model saved
+
+Epoch: 16
+model saved
+
+Epoch: 17
+model saved
+
+Epoch: 18
+model saved
+
+Epoch: 19
+model saved
+
+Epoch: 20
+model saved
+
+Epoch: 21
+model saved
+
+Epoch: 22
+model saved
+
+Epoch: 23
+model saved
+
+Epoch: 24
+model saved
+
+Epoch: 25
+model saved
+
+Epoch: 26
+model saved
+
+Epoch: 27
+model saved
+
+Epoch: 28
+model saved
+
+Epoch: 29
+model saved
+
+Epoch: 30
+model saved
+Elapsed time: 12.216 min

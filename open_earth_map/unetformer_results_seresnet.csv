@@ -1,0 +1,2 @@
+Model,Batch_size,Optimizer,Criterion,Best Score
+UNetFormer-seresnet152d,16,adam,Dice,0.533367371637585

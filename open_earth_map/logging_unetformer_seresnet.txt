@@ -1,0 +1,968 @@
+Total samples      : 1068
+Training samples   : 663
+Validation samples : 92
+Loading data
+Loading Optimizer
+Loading Criterion
+
+Epoch: 1
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 2
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 3
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 4
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 5
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 6
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 7
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 8
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 9
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 10
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 11
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 12
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 13
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 14
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 15
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 16
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 17
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 18
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 19
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 20
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 21
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 22
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 23
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 24
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 25
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 26
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 27
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 28
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 29
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 30
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 31
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 32
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 33
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 34
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 35
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 36
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 37
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 38
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 39
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 40
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 41
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 42
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 43
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 44
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 45
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 46
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 47
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 48
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 49
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 50
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 51
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 52
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 53
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 54
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 55
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 56
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 57
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 58
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 59
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 60
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 61
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 62
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 63
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 64
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 65
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 66
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 67
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 68
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 69
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 70
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 71
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 72
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 73
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 74
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 75
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 76
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 77
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 78
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 79
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 80
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 81
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 82
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 83
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 84
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 85
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 86
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 87
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 88
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 89
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 90
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 91
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 92
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 93
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 94
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 95
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 96
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 97
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 98
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 99
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 100
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 101
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 102
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 103
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 104
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 105
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 106
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 107
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 108
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 109
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 110
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 111
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 112
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 113
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 114
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 115
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 116
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 117
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 118
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 119
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 120
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 121
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 122
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 123
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 124
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 125
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 126
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 127
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 128
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 129
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 130
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 131
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 132
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 133
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 134
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 135
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 136
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 137
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 138
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 139
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 140
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 141
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 142
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 143
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 144
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 145
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 146
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 147
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 148
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 149
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 150
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 151
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 152
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 153
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 154
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 155
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 156
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 157
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 158
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 159
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 160
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 161
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 162
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 163
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+model saved
+
+Epoch: 164
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 165
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 166
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 167
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 168
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 169
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 170
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 171
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 172
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 173
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 174
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 175
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 176
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 177
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 178
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 179
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 180
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 181
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 182
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 183
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 184
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 185
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 186
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 187
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 188
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 189
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 190
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 191
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 192
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 193
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 194
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 195
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 196
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 197
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 198
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 199
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 200
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 201
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 202
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 203
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 204
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 205
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 206
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 207
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 208
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 209
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 210
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 211
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 212
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 213
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 214
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 215
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 216
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 217
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 218
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 219
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 220
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 221
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 222
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 223
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 224
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 225
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 226
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 227
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 228
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 229
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+
+Epoch: 230
+NOT FOUND
+../outputs/UNetFormer-seresnet152d_16_adam_Dice_mini.pth
+Elapsed time: 166.860 min

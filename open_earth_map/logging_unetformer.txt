@@ -1,0 +1,6 @@
+Total samples      : 1068
+Training samples   : 663
+Validation samples : 92
+Loading data
+Loading Optimizer
+Loading Criterion

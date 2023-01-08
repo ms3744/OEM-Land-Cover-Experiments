@@ -1,0 +1,591 @@
+Total samples      : 1068
+Training samples   : 663
+Validation samples : 92
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode64_adam_CE.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode64_adam_CE.pth (Epoch=25, Score=0.177)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode64_adam_Focal.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode64_adam_Focal.pth (Epoch=27, Score=0.120)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode64_adam_Jaccard.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode64_adam_Jaccard.pth (Epoch=28, Score=0.261)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode64_adam_Dice.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode64_adam_Dice.pth (Epoch=28, Score=0.249)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode64_adam_MCC.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode64_adam_MCC.pth (Epoch=28, Score=0.195)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode64_adam_CE+.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode64_adam_CE+.pth (Epoch=28, Score=0.183)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode64_adam_MCC+.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode64_adam_MCC+.pth (Epoch=29, Score=0.184)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode64_sgd_CE.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode64_sgd_CE.pth (Epoch=28, Score=0.080)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode64_sgd_Focal.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode64_sgd_Focal.pth (Epoch=29, Score=0.053)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode64_sgd_Jaccard.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode64_sgd_Jaccard.pth (Epoch=28, Score=0.088)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode64_sgd_Dice.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode64_sgd_Dice.pth (Epoch=27, Score=0.070)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode64_sgd_MCC.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode64_sgd_MCC.pth (Epoch=28, Score=0.060)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode64_sgd_CE+.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode64_sgd_CE+.pth (Epoch=29, Score=0.083)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode64_sgd_MCC+.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode64_sgd_MCC+.pth (Epoch=29, Score=0.080)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode256_adam_CE.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode256_adam_CE.pth (Epoch=29, Score=0.190)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode256_adam_Focal.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode256_adam_Focal.pth (Epoch=23, Score=0.132)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode256_adam_Jaccard.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode256_adam_Jaccard.pth (Epoch=27, Score=0.271)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode256_adam_Dice.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode256_adam_Dice.pth (Epoch=26, Score=0.267)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode256_adam_MCC.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode256_adam_MCC.pth (Epoch=23, Score=0.229)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode256_adam_CE+.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode256_adam_CE+.pth (Epoch=29, Score=0.207)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode256_adam_MCC+.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode256_adam_MCC+.pth (Epoch=28, Score=0.199)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode256_sgd_CE.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode256_sgd_CE.pth (Epoch=29, Score=0.102)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode256_sgd_Focal.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode256_sgd_Focal.pth (Epoch=28, Score=0.055)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode256_sgd_Jaccard.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode256_sgd_Jaccard.pth (Epoch=27, Score=0.117)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode256_sgd_Dice.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode256_sgd_Dice.pth (Epoch=29, Score=0.112)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode256_sgd_MCC.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode256_sgd_MCC.pth (Epoch=29, Score=0.068)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode256_sgd_CE+.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode256_sgd_CE+.pth (Epoch=28, Score=0.099)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_4_decode256_sgd_MCC+.pth
+Loaded model:FTUnetFormer_SwinTransformer_4_decode256_sgd_MCC+.pth (Epoch=29, Score=0.104)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode64_adam_CE.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode64_adam_CE.pth (Epoch=26, Score=0.185)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode64_adam_Focal.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode64_adam_Focal.pth (Epoch=27, Score=0.116)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode64_adam_Jaccard.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode64_adam_Jaccard.pth (Epoch=27, Score=0.264)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode64_adam_Dice.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode64_adam_Dice.pth (Epoch=29, Score=0.258)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode64_adam_MCC.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode64_adam_MCC.pth (Epoch=29, Score=0.197)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode64_adam_CE+.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode64_adam_CE+.pth (Epoch=29, Score=0.187)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode64_adam_MCC+.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode64_adam_MCC+.pth (Epoch=28, Score=0.202)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode64_sgd_CE.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode64_sgd_CE.pth (Epoch=29, Score=0.070)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode64_sgd_Focal.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode64_sgd_Focal.pth (Epoch=29, Score=0.055)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode64_sgd_Jaccard.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode64_sgd_Jaccard.pth (Epoch=29, Score=0.075)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode64_sgd_Dice.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode64_sgd_Dice.pth (Epoch=29, Score=0.063)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode64_sgd_MCC.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode64_sgd_MCC.pth (Epoch=29, Score=0.056)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode64_sgd_CE+.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode64_sgd_CE+.pth (Epoch=28, Score=0.072)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode64_sgd_MCC+.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode64_sgd_MCC+.pth (Epoch=28, Score=0.073)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode256_adam_CE.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode256_adam_CE.pth (Epoch=27, Score=0.205)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode256_adam_Focal.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode256_adam_Focal.pth (Epoch=29, Score=0.133)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode256_adam_Jaccard.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode256_adam_Jaccard.pth (Epoch=22, Score=0.268)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode256_adam_Dice.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode256_adam_Dice.pth (Epoch=74, Score=0.424)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode256_adam_MCC.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode256_adam_MCC.pth (Epoch=27, Score=0.272)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode256_adam_CE+.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode256_adam_CE+.pth (Epoch=27, Score=0.205)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode256_adam_MCC+.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode256_adam_MCC+.pth (Epoch=28, Score=0.213)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode256_sgd_CE.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode256_sgd_CE.pth (Epoch=28, Score=0.093)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode256_sgd_Focal.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode256_sgd_Focal.pth (Epoch=27, Score=0.055)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode256_sgd_Jaccard.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode256_sgd_Jaccard.pth (Epoch=29, Score=0.108)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode256_sgd_Dice.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode256_sgd_Dice.pth (Epoch=29, Score=0.084)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode256_sgd_MCC.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode256_sgd_MCC.pth (Epoch=29, Score=0.059)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode256_sgd_CE+.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode256_sgd_CE+.pth (Epoch=29, Score=0.097)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_8_decode256_sgd_MCC+.pth
+Loaded model:FTUnetFormer_SwinTransformer_8_decode256_sgd_MCC+.pth (Epoch=29, Score=0.097)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode64_adam_CE.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode64_adam_CE.pth (Epoch=28, Score=0.189)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode64_adam_Focal.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode64_adam_Focal.pth (Epoch=27, Score=0.107)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode64_adam_Jaccard.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode64_adam_Jaccard.pth (Epoch=27, Score=0.240)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode64_adam_Dice.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode64_adam_Dice.pth (Epoch=27, Score=0.265)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode64_adam_MCC.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode64_adam_MCC.pth (Epoch=29, Score=0.197)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode64_adam_CE+.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode64_adam_CE+.pth (Epoch=27, Score=0.186)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode64_adam_MCC+.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode64_adam_MCC+.pth (Epoch=28, Score=0.188)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode64_sgd_CE.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode64_sgd_CE.pth (Epoch=29, Score=0.065)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode64_sgd_Focal.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode64_sgd_Focal.pth (Epoch=22, Score=0.052)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode64_sgd_Jaccard.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode64_sgd_Jaccard.pth (Epoch=29, Score=0.059)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode64_sgd_Dice.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode64_sgd_Dice.pth (Epoch=29, Score=0.059)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode64_sgd_MCC.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode64_sgd_MCC.pth (Epoch=29, Score=0.055)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode64_sgd_CE+.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode64_sgd_CE+.pth (Epoch=28, Score=0.067)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode64_sgd_MCC+.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode64_sgd_MCC+.pth (Epoch=29, Score=0.063)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode256_adam_CE.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode256_adam_CE.pth (Epoch=26, Score=0.215)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode256_adam_Focal.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode256_adam_Focal.pth (Epoch=28, Score=0.125)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode256_adam_Jaccard.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode256_adam_Jaccard.pth (Epoch=29, Score=0.276)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode256_adam_Dice.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode256_adam_Dice.pth (Epoch=29, Score=0.260)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode256_adam_MCC.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode256_adam_MCC.pth (Epoch=29, Score=0.253)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode256_adam_CE+.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode256_adam_CE+.pth (Epoch=29, Score=0.214)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode256_adam_MCC+.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode256_adam_MCC+.pth (Epoch=27, Score=0.216)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode256_sgd_CE.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode256_sgd_CE.pth (Epoch=29, Score=0.084)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode256_sgd_Focal.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode256_sgd_Focal.pth (Epoch=29, Score=0.055)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode256_sgd_Jaccard.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode256_sgd_Jaccard.pth (Epoch=29, Score=0.086)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode256_sgd_Dice.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode256_sgd_Dice.pth (Epoch=29, Score=0.073)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode256_sgd_MCC.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode256_sgd_MCC.pth (Epoch=29, Score=0.059)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode256_sgd_CE+.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode256_sgd_CE+.pth (Epoch=29, Score=0.086)
+
+Epoch: 1
+Loading data
+Loading Optimizer
+Loading Criterion
+../swinoutputs/FTUnetFormer_SwinTransformer_16_decode256_sgd_MCC+.pth
+Loaded model:FTUnetFormer_SwinTransformer_16_decode256_sgd_MCC+.pth (Epoch=29, Score=0.086)
+
+Epoch: 1
